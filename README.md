@@ -4,6 +4,10 @@ This is a simple **ToDo List Web App** built using HTML, CSS, and JavaScript. Th
 
 ---
 
+## 📸 Preview
+
+![ToDo List Screenshot](screenshot.png)
+
 ## 🚀 Features
 
 - Add tasks with a title and due date
@@ -22,3 +26,7 @@ This is a simple **ToDo List Web App** built using HTML, CSS, and JavaScript. Th
 ---
 
 ## 📂 Project Structure
+
+-- to-do-list.html
+-- to-do-list.css
+-- to-do-script.js
