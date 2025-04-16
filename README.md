@@ -6,7 +6,7 @@ This is a simple **ToDo List Web App** built using HTML, CSS, and JavaScript. Th
 
 ## 📸 Preview
 
-![ToDo List Screenshot](To-Do-List/Screenshot 2025-04-16 155946.png)
+![ToDo List Screenshot](To-Do-List/Screenshot.png)
 
 ## 🚀 Features
 
